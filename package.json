@@ -1,0 +1,79 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-easemob",
+        "scope": null,
+        "escapedName": "react-native-easemob",
+        "name": "react-native-easemob",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/Terry/LongYin-APP/lucky"
+    ]
+  ],
+  "_from": "react-native-easemob@latest",
+  "_id": "react-native-easemob@0.0.9",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-easemob",
+  "_nodeVersion": "4.2.2",
+  "_npmOperationalInternal": {
+    "host": "packages-13-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-easemob-0.0.9.tgz_1457413020398_0.31305538583546877"
+  },
+  "_npmUser": {
+    "name": "demonhunter888",
+    "email": "demonhunter888@sina.com"
+  },
+  "_npmVersion": "2.14.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-easemob",
+    "scope": null,
+    "escapedName": "react-native-easemob",
+    "name": "react-native-easemob",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-easemob/-/react-native-easemob-0.0.9.tgz",
+  "_shasum": "34523a5effc4ad27b272156ac5a16b992fadd241",
+  "_shrinkwrap": null,
+  "_spec": "react-native-easemob",
+  "_where": "/Users/Terry/LongYin-APP/lucky",
+  "author": {
+    "name": "demonhunter888"
+  },
+  "dependencies": {},
+  "description": "the easemob util",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "34523a5effc4ad27b272156ac5a16b992fadd241",
+    "tarball": "https://registry.npmjs.org/react-native-easemob/-/react-native-easemob-0.0.9.tgz"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-easemob"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "demonhunter888",
+      "email": "demonhunter888@sina.com"
+    }
+  ],
+  "name": "react-native-easemob",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.9"
+}
