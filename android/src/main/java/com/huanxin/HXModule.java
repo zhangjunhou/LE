@@ -103,7 +103,7 @@ public class HXModule extends ReactContextBaseJavaModule {
 
 
        @ReactMethod
-    public void registerEventListener(){
+    public void removeEventListener(){
         commonim = new Commonim(mReactContext);
         commonim.removeEventListener();
     }
