@@ -284,6 +284,28 @@ public class Commonim {
         EMChat.getInstance().setAppInited();
     }
 
+
+
+
+//解除监听
+
+
+public void removeEventListener(){
+
+
+EMChatManager.getInstance().unregisterEventListener(new EMEventListener() {
+             
+    @Override
+    public void onEvent(EMNotifierEvent event) {
+        // TODO Auto-generated method stub
+         
+    }
+});
+
+}
+
+
+
     //回调监听事件注册
     public void registerEventListener() {
         EMChatManager.getInstance().registerEventListener(new EMEventListener() {
