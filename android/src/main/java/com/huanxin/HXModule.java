@@ -100,6 +100,14 @@ public class HXModule extends ReactContextBaseJavaModule {
         commonim = new Commonim(mReactContext);
         commonim.registerEventListener();
     }
+
+
+       @ReactMethod
+    public void registerEventListener(){
+        commonim = new Commonim(mReactContext);
+        commonim.removeEventListener();
+    }
+    
     @ReactMethod
     public void logout(Callback successCallback,Callback errorCallback){
         commonim = new Commonim(mReactContext);
